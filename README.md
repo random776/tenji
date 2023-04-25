@@ -1,6 +1,7 @@
 # tenji
 墨字（漢字かな混じり文）を点字に直す仮ツールです。
--https://tenji-tool.onrender.com
+
+- https://tenji-tool.onrender.com
 
 ## 使い方
 以下のコマンドをコマンドラインに入力してください。
