@@ -12,7 +12,7 @@ npm run dev
 
 ## 使用モジュール
 
-uhyoさまのこちら（https://github.com/uhyo/tenji）を用いております。
+uhyoさまのこちら（ https://github.com/uhyo/tenji ）のモジュールを用いております。
 
 ## コントリビューション
 プルリクエストやIssueはいつでも歓迎します。
