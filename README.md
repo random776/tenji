@@ -4,7 +4,7 @@
 - https://tenji-tool.onrender.com
 
 ## 使い方
-以下のコマンドをコマンドラインに入力してください。
+以下のコマンドをコマンドラインに入力してください。（ただし `npm install` した時に同時に `tenji` モジュールも入っているため、`npm install tenji` は必要ではありません。）
 ```
 cd tenji
 npm install
